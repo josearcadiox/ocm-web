@@ -6,6 +6,8 @@ html {
   z-index: 99;
   position: sticky;
   top: 0;
+  background: var(--black);
+  position: relative;
 }
 .h-container {
   padding-top: 1rem;
